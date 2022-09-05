@@ -29,8 +29,8 @@
           </ul>
   
           <div class="items-center hidden ml-8 space-x-4 md:flex lg:ml-12">
-            <h1 class="py-2 text-text-gray-600 hover:cursor-pointer hover:text-indigo-600">LOGIN</h1>
-            <h1 class="px-4 py-2 text-white rounded text-text-gray-600 hover:cursor-pointer bg-gradient-to-tr from-indigo-600 to-green-600 hover:shadow-lg">SIGNUP</h1>
+            <!-- <h1  class="py-2 text-text-gray-600 hover:cursor-pointer hover:text-indigo-600"> <a href="https://www.spotify.com/logout/"> logout </a> </h1> -->
+            <h1 class="px-4 py-2 text-white rounded text-text-gray-600 hover:cursor-pointer bg-gradient-to-tr from-indigo-600 to-green-600 hover:shadow-lg">Login</h1>
           </div>
         </div>
       </div>
